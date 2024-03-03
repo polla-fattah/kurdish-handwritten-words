@@ -13,9 +13,7 @@ This dataset contains a list of nearly 1500 distinct Kurdish words, each word ha
 
 ## Source
 
-* Dr. Polla Fattah
-  Department of Engineering
-  Salahaddin University
+* [https://data.krd/kurdish-handwritten-words/](https://data.krd/kurdish-handwritten-words/)
 
 ## Related Articles
 
